@@ -1,0 +1,11 @@
+{
+  "name": "mycalculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "keerthana satish",
+  "license": "ISC"
+}
